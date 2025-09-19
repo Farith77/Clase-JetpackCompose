@@ -1,6 +1,6 @@
 # Clase-JetpackCompose
 ## Integrantes
 
-- **Garcia Alan**
-- **Morron Daniel**
-- **Poco Alejandro**
+- **Garcia Apaza, Alan Jorge**
+- **Marron Carcausto, Daniel Enrique**
+- **Phocco Tapia, Alejandro Josue**
